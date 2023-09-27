@@ -8,3 +8,4 @@ openai
 streamlit
 sentence transformer
 hugging face
+chroma
